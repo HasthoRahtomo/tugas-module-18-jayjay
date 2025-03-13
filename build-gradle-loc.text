@@ -1,0 +1,4 @@
+Posisi build.gradle ada di: \lib\build.gradle
+Fungsi dan tujuan task greetingTask (ada di description task di build.gradle): Menerima input untuk 'nama' dengan tujuan akan ditampilkan di terminal, apabila tidak ada, akan menggunakan nama 'gradle user'
+
+gradle greetingTask -Pnama=JaneDoe
